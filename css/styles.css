@@ -267,6 +267,7 @@ a {
     transition: opacity 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
+
 .modal-close-btn {
     border-radius: 100%;
     border: 1px solid rgba(0, 0, 0, 0.1);
@@ -283,7 +284,7 @@ a {
     justify-content: center;
 }
 
-.modal-close-btn:hover { 
+.modal-close-btn:hover {
     fill: currentColor;
     border: 1px solid currentColor;
 }
@@ -310,8 +311,6 @@ a {
     /* 150% */
     letter-spacing: 0.32px;
 }
-
-
 
 
 /* END OF FORM */
