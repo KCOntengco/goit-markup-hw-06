@@ -252,6 +252,7 @@ a {
     background-color: white;
     border-radius: 4px;
     padding: 24px;
+    position: relative;
 }
 
 .backdrop {
@@ -293,6 +294,27 @@ a {
 }
 
 /*END OF MAIN FEATURE*/
+
+
+/* FORM */
+.modal-message {
+    width: 360px;
+    color: var(--NAVY-BLUE, #2E2F42);
+    text-align: center;
+    /* Body Medium */
+    font-family: Roboto;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 24px;
+    /* 150% */
+    letter-spacing: 0.32px;
+}
+
+
+
+
+/* END OF FORM */
 
 
 /*MAIN-SERVICE*/
