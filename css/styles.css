@@ -21,7 +21,8 @@ a {
 
 .container {
     width: 1440px;
-    height:3200px;
+    /* height:3200px; */
+    height: 600px;
 }
 
 /*LOGO-WEB*/
@@ -287,7 +288,7 @@ a {
     height: 100%;
     background-color: rgba(0, 0, 0, 0.4);
     position: absolute;
-    margin-top: 10px;
+    /* margin-top: 10px; */
     top: 0;
     display: flex;
     justify-content: center;
